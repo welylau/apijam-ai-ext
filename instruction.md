@@ -32,7 +32,7 @@
 
 
 1. Prompt to agy "do you have access to my apigee org?", it should take a few second and asking permission. Observe question , if you agree choose either "1 or 2 or 3",  
-![hi-agy](images/agy-hello.png)
+![hi-agy](images/agy-access-apigee-org.png)
 
 Pro-tip: only for non-sensitive sandbox environment: If you are "annoyed" with too many "request permission", 
 1. Prompt to agy "Help me to deploy the an api proxy from the oauth directory to my apigee org, eval env"
