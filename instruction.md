@@ -40,7 +40,9 @@
 
 2. Deploy oauth proxy: Suggested prompt to agy 
    
-   `Help me to deploy the an api proxy from the oauth directory to my apigee org, eval env". Verify if you could see the oauth proxy created and deployed in the console. `
+   `Help me to deploy the an api proxy from the oauth directory to my apigee org, eval env`. 
+   
+   Verify if you could see the oauth proxy created and deployed in the console.
     
     Observe how the agent perform it tasks you've given, including to install apigeecli which was mentioned as part of the skill we instructed earlier.
 
